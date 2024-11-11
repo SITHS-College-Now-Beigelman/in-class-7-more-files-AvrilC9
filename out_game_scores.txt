@@ -1,0 +1,6 @@
+Player Name: PlayerA Score One: 276 Score Two: 186 Score Three: 136 Average Score: 596.667
+Beginner - Keep Practicing!
+Player Name: PlayerB Score One: 749 Score Two: 354 Score Three: 689 Average Score: 2001.67
+Congrats! You are an Expert!
+Player Name: PlayerC Score One: 468 Score Two: 462 Score Three: 265 Average Score: 1215.67
+Master - Good Job!

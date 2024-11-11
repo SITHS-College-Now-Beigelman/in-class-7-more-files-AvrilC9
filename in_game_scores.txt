@@ -1,0 +1,3 @@
+PlayerA 276 186 136
+PlayerB 749 354 689
+PlayerC 468 462 265
